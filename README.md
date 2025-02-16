@@ -18,7 +18,3 @@
     <img height="20" src="https://img.shields.io/github/followers/dahoho?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
-<p align="left">
-<a href="/https://zenn.dev/rh820/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/rh820/feed" height="30" width="40" /></a>
-</p>
